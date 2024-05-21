@@ -1,0 +1,41 @@
+{
+	"query": " 018 ",
+	"numeroResources": 20,
+	"infDatasets": [
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/210673-0-eventos-igualdad-inmigrantes-100.json",
+			"num": "0"
+		},
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json",
+			"num": "5"
+		},
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json",
+			"num": "2"
+		},
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json",
+			"num": "5"
+		},
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json",
+			"num": "5"
+		},
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json",
+			"num": "3"
+		}
+	],
+	"ubicaciones": [
+		" Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)",
+		" Auditorio al aire libre. Pilar García Peña (Parque Pinar del Rey)",
+		" Centro Cultural Moncloa (Moncloa - Aravaca)",
+		" Auditorio al aire libre. Parque Aluche",
+		" Centro de Educación Ambiental de Casa de Campo",
+		" Biblioteca Pública Municipal Dámaso Alonso (Chamartín)",
+		" Biblioteca Pública Municipal Francisco Ibáñez (Chamartín)",
+		" Biblioteca Pública Municipal San Fermín (Usera)",
+		" Biblioteca Pública Municipal Mario Vargas Llosa (Centro)"
+	]
+}

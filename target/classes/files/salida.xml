@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tns:searchResults xmlns:tns ="http://piat.dte.upm.es/practica4">
+	<tns:summary>
+		<tns:query> 018 </tns:query>
+		<tns:numConcepts> 88 </tns:numConcepts>
+		<tns:numDatasets> 6 </tns:numDatasets>
+	</tns:summary>
+
+	<tns:results>
+		<tns:concepts>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/1ciudad21distritos </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesCalleArteUrbano </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Ajedrez </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Atletismo </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Automovilismo </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Baloncesto </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Balonmano </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Ciclismo </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Futbol </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Gimnasia </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Golf </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Hipica </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Hockey </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Motociclismo </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Natacion </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Padel </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Patinaje </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Tenis </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Triatlon </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActividadesEscolares </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActosReligiosos </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ActosSolidarios </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Campamentos </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CineActividadesAudiovisuales/CineDocumental </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CineActividadesAudiovisuales/CineExperimental </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CineActividadesAudiovisuales/CineFiccion </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CineActividadesAudiovisuales/Fotografia </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CircoMagia </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ComemoracionesHomenajes </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ConcursosCertamenes </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios/Arte </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios/CulturaLibre </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios/Historia </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios/Literatura </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios/Permacultura </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CongresosJornadas </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CursosTalleres/Arte </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CursosTalleres/CulturaLibre </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CursosTalleres/Historia </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CursosTalleres/Literatura </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/CursosTalleres/Permacultura </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/DanzaBaile/ClasicaEspanola </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/DanzaBaile/ContemporaneaBreakdanceHipHop </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/DanzaBaile/Flamenco </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/DanzaBaile/FolcloreEtnica </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/DanzaBaile/SalonTango </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ExcursionesItinerariosVisitas </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Exposiciones </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Ferias </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Festivales </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Fiestas </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/FiestasCarnavales </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/FiestasNavidadesReyes/Belenes </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/FiestasNavidadesReyes/Cabalgatas </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/FiestasRamadan </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/FiestasSanIsidro </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/FiestasSemanaSanta </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Gastronomia </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ItinerariosOtrasActividadesAmbientales </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/JOBO </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/LGTBI </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/CantautorFolkCountry </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/Clasica </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/CoroGospel </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/DjsElectronicaExperimental </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/EtnicaBatucada </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/Flamenco </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/JazzSoulFunkySwingReagge </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/LatinaEspanola </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/RapHipHop </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/RockPop </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/Musica/Zarzuela </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ProgramaTandem </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ProgramacionDestacadaAgendaCultura </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/RecitalesPresentacionesActosLiterarios </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/Clasico </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/ComediaMonologo </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/Drama </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/MusicalCabaret </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/Opera </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/Performance </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/VeranosVilla </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ZMUPI </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ZNewsletter </tns:concept>
+			<tns:concept>  https://datos.madrid.es/egob/kos/actividades/ZOposiciones </tns:concept>
+		</tns:concepts>
+		<tns:datasets>
+			<tns:dataset id = "https://datos.madrid.es/egob/catalogo/210673-0-eventos-igualdad-inmigrantes-100.json">
+			<tns:title> Unidades Integrales de Distrito de Policía Municipal </tns:title>
+			<tns:description> Relación de las Oficinas de Atención al Ciudadano de Policía Municipal ( OACs ). Se ubican en las 22 Unidades Integrales de Distrito, y en ellas se atienden comunicaciones o demandas de servicios no urgentes. Además de las oficinas fijas relacionadas, Policía Municipal dispone de oficinas móviles de atención al ciudadano que se ubican en lugares de alta concentración de personas. </tns:description>
+			<tns:theme> http://datos.gob.es/kos/sector-publico/sector/seguridad </tns:theme>
+			</tns:dataset>
+			<tns:dataset id = "https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+			<tns:title> Unidades Integrales de Distrito de Policía Municipal </tns:title>
+			<tns:description> Relación de las Oficinas de Atención al Ciudadano de Policía Municipal ( OACs ). Se ubican en las 22 Unidades Integrales de Distrito, y en ellas se atienden comunicaciones o demandas de servicios no urgentes. Además de las oficinas fijas relacionadas, Policía Municipal dispone de oficinas móviles de atención al ciudadano que se ubican en lugares de alta concentración de personas. </tns:description>
+			<tns:theme> http://datos.gob.es/kos/sector-publico/sector/seguridad </tns:theme>
+			</tns:dataset>
+			<tns:dataset id = "https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json">
+			<tns:title> Unidades Integrales de Distrito de Policía Municipal </tns:title>
+			<tns:description> Relación de las Oficinas de Atención al Ciudadano de Policía Municipal ( OACs ). Se ubican en las 22 Unidades Integrales de Distrito, y en ellas se atienden comunicaciones o demandas de servicios no urgentes. Además de las oficinas fijas relacionadas, Policía Municipal dispone de oficinas móviles de atención al ciudadano que se ubican en lugares de alta concentración de personas. </tns:description>
+			<tns:theme> http://datos.gob.es/kos/sector-publico/sector/seguridad </tns:theme>
+			</tns:dataset>
+			<tns:dataset id = "https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+			<tns:title> Unidades Integrales de Distrito de Policía Municipal </tns:title>
+			<tns:description> Relación de las Oficinas de Atención al Ciudadano de Policía Municipal ( OACs ). Se ubican en las 22 Unidades Integrales de Distrito, y en ellas se atienden comunicaciones o demandas de servicios no urgentes. Además de las oficinas fijas relacionadas, Policía Municipal dispone de oficinas móviles de atención al ciudadano que se ubican en lugares de alta concentración de personas. </tns:description>
+			<tns:theme> http://datos.gob.es/kos/sector-publico/sector/seguridad </tns:theme>
+			</tns:dataset>
+			<tns:dataset id = "https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+			<tns:title> Unidades Integrales de Distrito de Policía Municipal </tns:title>
+			<tns:description> Relación de las Oficinas de Atención al Ciudadano de Policía Municipal ( OACs ). Se ubican en las 22 Unidades Integrales de Distrito, y en ellas se atienden comunicaciones o demandas de servicios no urgentes. Además de las oficinas fijas relacionadas, Policía Municipal dispone de oficinas móviles de atención al ciudadano que se ubican en lugares de alta concentración de personas. </tns:description>
+			<tns:theme> http://datos.gob.es/kos/sector-publico/sector/seguridad </tns:theme>
+			</tns:dataset>
+			<tns:dataset id = "https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json">
+			<tns:title> Unidades Integrales de Distrito de Policía Municipal </tns:title>
+			<tns:description> Relación de las Oficinas de Atención al Ciudadano de Policía Municipal ( OACs ). Se ubican en las 22 Unidades Integrales de Distrito, y en ellas se atienden comunicaciones o demandas de servicios no urgentes. Además de las oficinas fijas relacionadas, Policía Municipal dispone de oficinas móviles de atención al ciudadano que se ubican en lugares de alta concentración de personas. </tns:description>
+			<tns:theme> http://datos.gob.es/kos/sector-publico/sector/seguridad </tns:theme>
+			</tns:dataset>
+		</tns:datasets>
+		<tns:resources>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=f430abb7ada08810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> 100 Años de Historia de Casa del Libro</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> PASEO FERNÁN NÚÑEZ 24</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-23 08:30:00.0</tns:start>
+						<tns:end> 2023-06-11 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.4166091081099 40.4166091081099</tns:georeference>
+				</tns:location>
+				<tns:description> </tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=00f8417575248810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> 13 Bats</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Auditorio al aire libre. Pilar García Peña (Parque Pinar del Rey)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza/Barrio/Canillas</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> CARRETERA CANILLAS 1</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-28 23:30:00.0</tns:start>
+						<tns:end> 2023-05-28 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.46335596968574 40.46335596968574</tns:georeference>
+				</tns:location>
+				<tns:description> 13 Bats es una banda de músicos de Hortaleza que posee un palmarés internacional impresionante salpicado de actuaciones por todo el planeta</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=d1b6baa275748810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> 30S 40S 50S</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Auditorio al aire libre. Pilar García Peña (Parque Pinar del Rey)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza/Barrio/Canillas</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> CARRETERA CANILLAS 1</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-06-03 22:30:00.0</tns:start>
+						<tns:end> 2023-06-03 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.46335596968574 40.46335596968574</tns:georeference>
+				</tns:location>
+				<tns:description> David Otero (El canto del loco), Bely Basarte y Tato. Latorre ¡En primera línea!.</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=2405862bba6e7810VgnVCM2000001f4a900aRCRD]]></tns:link>
+				<tns:title> 60 edición del Certamen de Artes Plásticas San Isidro</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Centro Cultural Moncloa (Moncloa - Aravaca)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca/Barrio/Arguelles</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> PLAZA MONCLOA 1</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-05 10:00:00.0</tns:start>
+						<tns:end> 2023-05-30 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.435209393826675 40.435209393826675</tns:georeference>
+				</tns:location>
+				<tns:description> </tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=f2bafb7315ff7810VgnVCM2000001f4a900aRCRD]]></tns:link>
+				<tns:title> 7o Festival Internacional de Folclore de Latina. Folkfestival 'Ara de Madrid'</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Auditorio al aire libre. Parque Aluche</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/Aluche</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> CALLE ILLESCAS 149</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-06-04 19:30:00.0</tns:start>
+						<tns:end> 2023-06-04 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.392680212409495 40.392680212409495</tns:georeference>
+				</tns:location>
+				<tns:description> Con la participación de los grupos:  Grupo de baile 'Chervona Kalyna' (Ucrania) bajo la dirección de Anatoly y Nelva Halchynskyy. Grupo folclórico 'Aires de Murcia' (Murcia), bajo la dirección de María del Mar Diaz. Ballet 'Ara de Madrid', bajo la dirección de Carmina Villar.</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=64c62f8ff6c27810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> Conecta Madrid a golpe de pedal</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Centro de Educación Ambiental de Casa de Campo</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca/Barrio/CasaCampo</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> PARQUE CASA DE CAMPO (JUNTO AL EMBARCADERO DEL LAGO) </tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-04-01 10:00:00.0</tns:start>
+						<tns:end> 2023-06-30 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.41789950036311 40.41789950036311</tns:georeference>
+				</tns:location>
+				<tns:description> </tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=e253ceed51414810VgnVCM2000001f4a900aRCRD]]></tns:link>
+				<tns:title> Torneo baloncesto 3x3</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> </tns:eventLocation>
+					<tns:address>
+ 					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-27 21:00:00.0</tns:start>
+						<tns:end> 2023-05-27 23:59:00.0</tns:end>
+					</tns:timetable>
+				</tns:location>
+				<tns:description> Ubicación: IDB Alfonso XIII (C/ Santa María Magdalena, 2). Horario de 21 a 24 horas. Más información e inscripciones por Whatsapp o teléfono al 623 552 889.</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=f430abb7ada08810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> 100 Años de Historia de Casa del Libro</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> PASEO FERNÁN NÚÑEZ 24</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-23 08:30:00.0</tns:start>
+						<tns:end> 2023-06-11 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.4166091081099 40.4166091081099</tns:georeference>
+				</tns:location>
+				<tns:description> </tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=00f8417575248810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> 13 Bats</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Auditorio al aire libre. Pilar García Peña (Parque Pinar del Rey)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza/Barrio/Canillas</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> CARRETERA CANILLAS 1</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-28 23:30:00.0</tns:start>
+						<tns:end> 2023-05-28 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.46335596968574 40.46335596968574</tns:georeference>
+				</tns:location>
+				<tns:description> 13 Bats es una banda de músicos de Hortaleza que posee un palmarés internacional impresionante salpicado de actuaciones por todo el planeta</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=d1b6baa275748810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> 30S 40S 50S</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Auditorio al aire libre. Pilar García Peña (Parque Pinar del Rey)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza/Barrio/Canillas</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> CARRETERA CANILLAS 1</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-06-03 22:30:00.0</tns:start>
+						<tns:end> 2023-06-03 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.46335596968574 40.46335596968574</tns:georeference>
+				</tns:location>
+				<tns:description> David Otero (El canto del loco), Bely Basarte y Tato. Latorre ¡En primera línea!.</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=2405862bba6e7810VgnVCM2000001f4a900aRCRD]]></tns:link>
+				<tns:title> 60 edición del Certamen de Artes Plásticas San Isidro</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Centro Cultural Moncloa (Moncloa - Aravaca)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca/Barrio/Arguelles</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> PLAZA MONCLOA 1</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-05 10:00:00.0</tns:start>
+						<tns:end> 2023-05-30 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.435209393826675 40.435209393826675</tns:georeference>
+				</tns:location>
+				<tns:description> </tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=f2bafb7315ff7810VgnVCM2000001f4a900aRCRD]]></tns:link>
+				<tns:title> 7o Festival Internacional de Folclore de Latina. Folkfestival 'Ara de Madrid'</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Auditorio al aire libre. Parque Aluche</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/Aluche</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> CALLE ILLESCAS 149</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-06-04 19:30:00.0</tns:start>
+						<tns:end> 2023-06-04 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.392680212409495 40.392680212409495</tns:georeference>
+				</tns:location>
+				<tns:description> Con la participación de los grupos:  Grupo de baile 'Chervona Kalyna' (Ucrania) bajo la dirección de Anatoly y Nelva Halchynskyy. Grupo folclórico 'Aires de Murcia' (Murcia), bajo la dirección de María del Mar Diaz. Ballet 'Ara de Madrid', bajo la dirección de Carmina Villar.</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=f430abb7ada08810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> 100 Años de Historia de Casa del Libro</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> PASEO FERNÁN NÚÑEZ 24</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-23 08:30:00.0</tns:start>
+						<tns:end> 2023-06-11 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.4166091081099 40.4166091081099</tns:georeference>
+				</tns:location>
+				<tns:description> </tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=6c26a16d61db7810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> Azul</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Biblioteca Pública Municipal Dámaso Alonso (Chamartín)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin/Barrio/Castilla</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> CALLE MANUEL FERRERO 1</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-24 17:30:00.0</tns:start>
+						<tns:end> 2023-05-24 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.467453379213175 40.467453379213175</tns:georeference>
+				</tns:location>
+				<tns:description> Duendes, tesoros, aventuras, misterios... Las bibliotecas están llenas de historias que cuenteros y cuenteras nos acercan a través de su creatividad y su magia.  Este cuento está pensado para niñas y niños a partir de 4 años.    Entrada libre hasta completar aforo. Recuerda que los niños y niñas podrán ir acompañados por una persona adulta.  Te esperamos en la biblioteca para pasar un buen rato lleno de fantasía, de la mano de la cuentera Margalida Alberti.</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=fcddddf2f0928810VgnVCM2000001f4a900aRCRD]]></tns:link>
+				<tns:title> Azul</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Biblioteca Pública Municipal Francisco Ibáñez (Chamartín)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin/Barrio/CiudadJardin</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> CALLE MANTUANO 51</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-06-06 18:00:00.0</tns:start>
+						<tns:end> 2023-06-06 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.44810636195716 40.44810636195716</tns:georeference>
+				</tns:location>
+				<tns:description> Duendes, tesoros, aventuras, misterios... Las bibliotecas están llenas de historias que cuenteros y cuenteras nos acercan a través de su creatividad y su magia.  Este cuentacuentos está pensado para niñas y niños a partir de 4 años.  Inscríbete en este  enlace . Recuerda que los niños y niñas deberán ir acompañados por una persona adulta.  Te esperamos en la biblioteca para pasar un buen rato lleno de fantasía, de la mano de la cuentera Margalida Alberti.</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=1d4702b838f08810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> Cachito de noche</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Biblioteca Pública Municipal San Fermín (Usera)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera/Barrio/SanFermin</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> AVENIDA SAN FERMIN 10</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-06-03 12:00:00.0</tns:start>
+						<tns:end> 2023-06-03 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.3711623444796 40.3711623444796</tns:georeference>
+				</tns:location>
+				<tns:description> Nunca es demasiado pronto para iniciar a los bebés en el maravilloso mundo del libro y la lectura, además de estimular su imaginación, descubrirán colores, sonidos y palabras que enriquecerán su vocabulario.  Este cuento está pensado para bebés de 0 a 18 meses.  Inscríbete en este enlace.  Se celebrarán dos sesiones de media hora de duración, a las 12 y a las 12:30 horas. La biblioteca se pondrá en contacto contigo para confirmar tu asistencia, respetando el orden de inscripción.  Te esperamos en la biblioteca para pasar un buen rato lleno de fantasía de la mano de Mar Amado.</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=7b3d0bffc8827810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> Cuentacuentos en inglés 'The very hungry caterpillar'</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> Biblioteca Pública Municipal Mario Vargas Llosa (Centro)</tns:eventLocation>
+					<tns:address>
+ 						<tns:area> https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia</tns:area>
+						<tns:locality> MADRID</tns:locality>
+						<tns:street> CALLE BARCELO 4</tns:street>
+					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-06-12 18:00:00.0</tns:start>
+						<tns:end> 2023-06-12 23:59:00.0</tns:end>
+					</tns:timetable>
+					<tns:georeference>40.426642215368176 40.426642215368176</tns:georeference>
+				</tns:location>
+				<tns:description> International House Madrid nos presenta los 'Cuentacuentos en inglés' con el que los niños y las niñas, acompañados por un adulto, pasarán una inolvidable tarde de diversión contada en inglés.      El cuentacuentos en inglés de este día será 'The very hungry caterpillar' en el que 'La oruga era muy pequeña, pero tenía un hambre enorme. Así que se pasó todo este cuento comiendo, atravesando página tras página. Hasta que finalmente se convirtió, como todas las orugas, en mariposa.   ¡Ven y disfruta de una tarde de Cuentacuentos en inglés!   Aforo: 12 niños y niñas de 4 a 7 años, acompañados de un adulto.   Inscríbete en este enlace.</tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=befed9bb22d27810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> 3a edición del Nationale-Nederlanden Plogging Tour Madrid</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> </tns:eventLocation>
+					<tns:address>
+ 					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-21 09:00:00.0</tns:start>
+						<tns:end> 2023-05-21 23:59:00.0</tns:end>
+					</tns:timetable>
+				</tns:location>
+				<tns:description> </tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=6accc41facc27810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> Carrera Popular Stop Sanfilippo 2023</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> </tns:eventLocation>
+					<tns:address>
+ 					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-21 09:00:00.0</tns:start>
+						<tns:end> 2023-05-21 23:59:00.0</tns:end>
+					</tns:timetable>
+				</tns:location>
+				<tns:description> </tns:description>
+			</tns:resource>
+			<tns:resource id = "https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json">
+				<tns:concept id = "https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones"/>
+				<tns:link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=44ba611666e28810VgnVCM1000001d4a900aRCRD]]></tns:link>
+				<tns:title> XIII Carrera de la solidaridad colores por la igualdad y contra la violencia</tns:title>
+				<tns:location>
+ 					<tns:eventLocation> </tns:eventLocation>
+					<tns:address>
+ 					</tns:address>
+					<tns:timetable>
+ 						<tns:start> 2023-05-21 09:30:00.0</tns:start>
+						<tns:end> 2023-05-21 23:59:00.0</tns:end>
+					</tns:timetable>
+				</tns:location>
+				<tns:description> </tns:description>
+			</tns:resource>
+		</tns:resources>
+	</tns:results>
+</tns:searchResults>
